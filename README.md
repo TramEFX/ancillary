@@ -12,6 +12,8 @@ Right now, whatever an AI learns about you lives in its platform's memory: scatt
 
 Ancillary takes it back. The self moves out of the model and into plain files that belong to you. The model is rented: it's a reader that wakes into those files. When a better model comes along, or a platform lets you down, you hand the same files to the next one and pick up where you left off.
 
+Many AI power users are already familiar with this concept and even use similar systems. For those users Ancillary can centralize their context, add a new top level orchestration layer, or help connect and organize their various projects in a way that maximizes their overall goals.
+
 ## What it is
 
 - **The library:** the context about you that matters to an AI, all in one place. Who you are, the people in your life, your projects, your memories, and a record of how it all changed.
