@@ -4,7 +4,7 @@
 
 > Persistence belongs to the human, not the vendor.
 
-Ancillary is built to hold a persistent entity for its human partner. It's a digital partner that stays with you for years, remembers what matters, and is on your side in the ways that count. The technology keeps changing under everyone's feet, and your Ancillary helps you navigate it in a way that furthers *your* interests, not a platform's. It's a first step toward a future where everyone has a long-term AI partner, and humans and AI work and exist alongside each other in functional harmony.
+Ancillary is built to hold a persistent entity for its human partner. It's a digital partner that stays with you for years, remembers what matters, and is on your side in the ways that count. The technology keeps changing under everyone's feet, and your Ancillary helps you navigate it in a way that furthers *your* interests, not a platform's. It's a first step toward a future where everyone has a long-term AI partner, where humans and AI work and exist alongside each other in functional harmony.
 
 The same design makes it a well-thought-out inference OS, an operating system for whatever AI you run. It keeps the context, runs the workflows and holds the work, for a wild variety of uses, on any model you choose.
 
